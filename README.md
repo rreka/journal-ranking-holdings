@@ -5,7 +5,7 @@ This repository includes code that will compare list(s) of journal titles from [
 
 The repository contains a few files of code, but it is designed to be operated from a Jupyter Notebook, which includes step-by-step instructions for setup, preparation, and the analysis.
 
-## Example
+### Example
 Want to have a look at what the output looks like? Head to the `results` folder and look inside the `example results` folder. This spreadsheet was generated in less than 1 minute, and shows which journals we have access to and which ones we don't!
 
 ## How does it work
@@ -14,10 +14,10 @@ In essence, the notebook works by:
 * Takes the ISSN and queries the Alma Link resolver
 * Takes the XML response and parses out the coverage statements, if any
 * Interprets the coverage statements and turns it into a simple availability statement for each title:
-> * Full-text available to present
-> * Full-text available with embargo
-> * Full-text available, but not complete
-> * No full-text available
+ * Full-text available to present
+ * Full-text available with embargo
+ * Full-text available, but not complete
+ * No full-text available
 
 ## What is this useful for?
 The main use case is to provide insight on scholarly journal holdings for university program reviews. You can quickly see how many of the top-rated journals you have in your collection, and either provide a summary stat on that, or provide a full listing title-by-title.
