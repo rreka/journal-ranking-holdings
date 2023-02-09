@@ -14,7 +14,7 @@ In essence, the notebook works by:
 * Takes the ISSN and queries the Alma Link resolver
 * Takes the XML response and parses out the coverage statements, if any
 * Interprets the coverage statements and turns it into a simple availability statement for each title:
- * Full-text available to present
+   * Full-text available to present
  * Full-text available with embargo
  * Full-text available, but not complete
  * No full-text available
