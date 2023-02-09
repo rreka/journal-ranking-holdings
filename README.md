@@ -5,6 +5,9 @@ This repository includes code that will compare list(s) of journal titles from [
 
 The repository contains a few files of code, but it is designed to be operated from a Jupyter Notebook, which includes step-by-step instructions for setup, preparation, and the analysis.
 
+## Example
+Want to have a look at what the output looks like? Head to the `results` folder and look inside the `example results` folder. This spreadsheet was generated in less than 1 minute, and shows which journals we have access to and which ones we don't!
+
 ## How does it work
 In essence, the notebook works by:
 * Grabbing the ISSNs from a single, or several, CSV exports from the Scimago Journal Rankings website
