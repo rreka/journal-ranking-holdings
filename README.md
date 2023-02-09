@@ -19,7 +19,7 @@ In essence, the notebook works by:
 ## What is this useful for?
 The main use case is to provide insight on scholarly journal holdings for university program reviews. You can quickly see how many of the top-rated journals you have in your collection, and either provide a summary stat on that, or provide a full listing title-by-title.
 
-##Notes & disclaimer
+## Notes & disclaimer
 This code may not be perfect, so it is worth double checking the results. Errors will also be introduced based on the metadata quality:
 
 * The ISSNs provided by the SJR report may not match up with the ISSNs in your MARC records
