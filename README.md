@@ -1,7 +1,7 @@
 # Library holdings coverage of SJR titles
 
 ## What is this?
-This repository includes code that will compare list(s) of journal titles from Scimago Journal Ranking reports (SJR) against your library's holdings of journals in Primo. It will generate a spreadsheet of the full-text availability for all titles in the report, automatically, so that you don't have to check titles one-by-one! This notebook will work with libraries that use Alma and Primo.
+This repository includes code that will compare list(s) of journal titles from [Scimago Journal Ranking reports (SJR)](https://www.scimagojr.com/journalrank.php) against your library's holdings of journals in Primo. It will generate a spreadsheet of the full-text availability for all titles in the report, automatically, so that you don't have to check titles one-by-one! This notebook will work with libraries that use Alma and Primo.
 
 The repository contains a few files of code, but it is designed to be operated from a Jupyter Notebook, which includes step-by-step instructions for setup, preparation, and the analysis.
 
