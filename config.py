@@ -4,4 +4,4 @@
 
 # Note the structure of the URL, and how it ends with an '?'
 
-base_URL = 'https://ca01.alma.exlibrisgroup.com/view/uresolver/01UTON_UW/openurl?'
+base_URL = ''
