@@ -15,9 +15,9 @@ In essence, the notebook works by:
 * Takes the XML response and parses out the coverage statements, if any
 * Interprets the coverage statements and turns it into a simple availability statement for each title:
    * Full-text available to present
- * Full-text available with embargo
- * Full-text available, but not complete
- * No full-text available
+   * Full-text available with embargo
+   * Full-text available, but not complete
+   * No full-text available
 
 ## What is this useful for?
 The main use case is to provide insight on scholarly journal holdings for university program reviews. You can quickly see how many of the top-rated journals you have in your collection, and either provide a summary stat on that, or provide a full listing title-by-title.
